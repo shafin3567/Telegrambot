@@ -1,0 +1,10 @@
+# Node.js
+node_modules/
+npm-debug.log
+.DS_Store
+
+# PHP
+vendor/
+*.log
+*.cache
+.env
